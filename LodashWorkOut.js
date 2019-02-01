@@ -229,7 +229,6 @@
 //             arrayOfChildren.push(person[i].children[childrenName[j]])
 //         }
 //     }
-
 // }
 // console.log(arrayOfChildren)
 
